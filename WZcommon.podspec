@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WZcommon'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'common'
   s.description      = "A test description of testPod.description should be logger than summary "
   s.homepage         = 'https://github.com/suibiankeyinan/WZcommon.git'
